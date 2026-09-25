@@ -1,0 +1,13 @@
+Add these controls to the dialog resource:
+
+Dialog ID:
+IDD_RANDOMMOUSEMOVER_DIALOG
+
+Button:
+IDC_BUTTON_ON       Text: Turn On
+IDC_BUTTON_OFF      Text: Turn Off
+
+Static text:
+IDC_STATIC_STATUS   Text: Status: Off
+
+If Visual Studio generated different IDs, update the IDs in the .h/.cpp file accordingly.
